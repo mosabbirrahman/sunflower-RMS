@@ -1,24 +1,38 @@
 .body{
     
     background-color: rgba(255, 192, 203, 0.445);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url('IMG20231222085124.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.637), rgba(0, 0, 0, 0.644)), url('IMG20231222085124.jpg');
     height: 100%;
     position: relative;
     padding-top: 250px;
-     color: #d0d0d0; 
+     color: #fdfdfd; 
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     z-index: 1;
     background-color:overlay;
+    font-family: "Hind Siliguri", serif;
 }
 
 .nav{
+   
  
-    font-family: "Oswald", serif;
-    font-optical-sizing: auto;
-    font-weight:400;
-    font-style: normal;
+    font-family: "Hind Siliguri", serif;
+  
   
 }
+#img{
+    width: 200px;
+}
+
+.map{
+    width:"400";
+    height:"300";
+   
+}
+#fa{
+    width: 40px;
+    
+}
+    
