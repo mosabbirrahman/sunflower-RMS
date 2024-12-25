@@ -11,7 +11,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     z-index: 1;
-    
+    opacity: 1.10;
 }
 
 .nav{
@@ -28,7 +28,7 @@
     }
     
 } */
-@media screen and (max-width : 576) {
+/* @media screen and (max-width : 576) {
     .head{
         text-align: center;
         padding-left: 40px;
@@ -37,6 +37,6 @@
     
    }
 } 
-
+ */
 
  
