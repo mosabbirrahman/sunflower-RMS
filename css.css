@@ -5,13 +5,13 @@
     height: 100%;
     position: relative;
     padding-top: 250px;
-    color: #d0d0d0;
+     color: #d0d0d0; 
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     z-index: 1;
-    opacity: 1.10;
+    background-color:overlay;
 }
 
 .nav{
@@ -22,9 +22,3 @@
     font-style: normal;
   
 }
-@media (min-width: 640px) { 
-    .video{
-       
-    }
- }
- 
