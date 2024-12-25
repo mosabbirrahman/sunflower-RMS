@@ -22,21 +22,9 @@
     font-style: normal;
   
 }
- /* @media screen and (min-width:576px) and (max-width:992px){
-    .head{
-       display: flex;
+@media (min-width: 640px) { 
+    .video{
+       
     }
-    
-} */
-/* @media screen and (max-width : 576) {
-    .head{
-        text-align: center;
-        padding-left: 40px;
-    }
-   .banner{
-    
-   }
-} 
- */
-
+ }
  
